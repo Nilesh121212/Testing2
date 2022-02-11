@@ -14,5 +14,9 @@ public class Demo
   public static void main(String[] args)
   {
 	System.out.println("Hello main of git application");
+	
+	
+	Demo d=new Demo();
+	     d.m1();
   }
 }
